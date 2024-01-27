@@ -1,3 +1,3 @@
 My git repo
 
-Author : - Harshit
+Author : - Harshit Rawat
